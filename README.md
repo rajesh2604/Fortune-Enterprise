@@ -1,22 +1,51 @@
-# Fortune Traders - Vibrant GitHub Pages Website
+# Fortune Enterprises Website
 
-Static HTML/CSS/JavaScript website for Fortune Traders, a crate manufacturing company.
+A responsive, static company website for Fortune Enterprises, a crate manufacturing company.
 
 ## Files
-- index.html
-- style.css
-- script.js
 
-## GitHub Pages
-1. Create a GitHub repository.
-2. Upload these files.
-3. Open **Settings → Pages**.
-4. Select **Deploy from a branch**, choose `main` and `/ (root)`.
-5. Save.
+- `index.html` — website structure and content
+- `style.css` — responsive design and styling
+- `script.js` — mobile navigation
 
-## Important placeholders
-Replace the demo phone number, WhatsApp number, email address, address, statistics and demo photos with Fortune Traders' actual information.
+## Run locally
 
-The **Visit Us** card already opens Google Maps using a search URL for the placeholder Bengaluru address. Replace the address in `index.html` with the actual Fortune Traders location when available.
+Open `index.html` in a browser.
 
-Demo images are externally hosted; replace them with the company's own photographs for the final production website.
+## Publish on GitHub Pages
+
+1. Create a new GitHub repository, for example `fortune-ENTERPRISES`.
+2. Upload `index.html`, `style.css`, `script.js`, and the `images` folder.
+3. In GitHub, open **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select the `main` branch and `/ (root)`.
+6. Save.
+7. GitHub will provide your Pages URL.
+
+## Before going live
+
+Replace the placeholder:
+- phone number
+- email address
+- physical address
+- statistics
+- product descriptions
+- gallery placeholders
+- company logo
+- Google Maps location
+- real phone, WhatsApp and email contact details
+
+Contact buttons currently use placeholder phone/WhatsApp/email details; replace them with the real Fortune Enterprises contact details before publishing.
+
+
+## Demo image sources
+
+The demo site now uses externally hosted images so the website looks realistic immediately:
+
+- Unsplash photos are used under the Unsplash License.
+- The injection-molding images are from Wikimedia Commons. `Arburg-swiss plastic 2026.jpg` is CC0; `Plastic Injection Molding.jpg` is CC BY 4.0 and should retain attribution.
+
+Replace these demo images with Fortune Enterprises' own product/factory photos before final production if preferred.
+
+
+Location: Fortune Enterprises — https://maps.app.goo.gl/NaxNw5nrSykbE8TQ6
